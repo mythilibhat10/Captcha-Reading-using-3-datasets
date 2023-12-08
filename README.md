@@ -1,10 +1,10 @@
 # Captcha-Reading-using-3-datasets
 
 --> Datasets used: 
-    1. https://www.kaggle.com/datasets/parsasam/captcha-dataset
-    2. https://www.kaggle.com/datasets/alizahidraja/captcha-data
-    3. https://www.kaggle.com/datasets/electrototo/vulnerable-captchas
-    4. https://www.kaggle.com/datasets/ascagne/2characterscaptcha
+        1. https://www.kaggle.com/datasets/parsasam/captcha-dataset
+        2. https://www.kaggle.com/datasets/alizahidraja/captcha-data
+        3. https://www.kaggle.com/datasets/electrototo/vulnerable-captchas
+        4. https://www.kaggle.com/datasets/ascagne/2characterscaptcha
     
 --> Introduction:
 A CAPTCHA is a type of challenge–response test used in computing to determine whether the user is human to deter bot attacks and spam. For this CAPTCHA reading project, we needed to develop a training model that can read any type of CAPTCHA provided.
